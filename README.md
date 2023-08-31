@@ -1,3 +1,5 @@
+<img src="https://liip.rokka.io/www_articlebig_3/o-dpr-1/d5bba2/goapi.jpg"  alt="svelte kit embed in golang"/>
+
 # svelte kit embed in golang
 build svelte kit embed in golang
 
